@@ -1,0 +1,49 @@
+1. Setting up Project Structure and Files
+- Set up the foundational structure of the weather application project, including creating the necessary project directories and files.
+- Initialize a Git repository to manage their project versions effectively using Visual Studio or any other IDE.
+
+2. Basic HTML Structure for Weather Application
+- Design and implement the basic HTML structure for the weather application.
+- Create a user interface that includes necessary elements such as input fields, buttons, and display areas for weather information.
+
+3. Apply CSS Styles to HTML Elements
+- Apply CSS styles to the HTML elements of the weather application to create a visually appealing and user-friendly layout.
+
+4. Create an Input Field for Users to Enter City Name
+- Create an input field in the weather application where users can enter the name of a city. while user is typing the search bar will suggest the name of the cities
+
+5. JavaScript Function to Fetch Weather Data
+- To create a JavaScript function that fetches and displays the current weather data for a city entered by the user using a weather API.
+
+6. Styling the Current Weather Display Section
+- Enhance the visual presentation of the current weather display section in the weather application.
+
+7. Displaying the 7-Day Weather Forecast
+- Create an HTML section within the weather application for displaying the 7-day weather forecast.
+
+8. Simulating the 7-Day Weather Forecast
+- Create a JavaScript function to generate simulated weather data for a given city.
+
+9. Implementing Geolocation Functionality
+- Implement geolocation functionality to detect the user's current location (using simulated data)
+
+10.Fetch Weather Data Based on the User's Geolocation
+- Fetch weather data based on the user’s simulated geolocation.
+- Display simulated weather information for the user's current location.
+
+11. Implementing Basic Error Handling for Invalid City Inputs and Geolocation Errors
+- Implement basic error handling for invalid city inputs and geolocation errors to improve the robustness of the weather forecasting application.
+
+12. Implementing Weather Icons for Current Conditions
+- Implement a feature to display weather icons corresponding to the current weather conditions (e.g., sunny, cloudy, rainy) using simulated data.
+
+13. Enhancing Weather Forecast Application with Additional Features
+- Implement additional features such as a toggle switch to change the temperature units between Celsius and Fahrenheit, and a button to refresh the weather data.
+
+14. Implementing Favorite Cities Feature for Weather Forecast
+- Enhance the weather forecast application by adding the ability to save favorite cities and quickly access their weather information without re-entering the city names.
+
+15. Implementing Favorite Cities Feature with Basic Responsiveness
+- Enhance the weather forecast application by adding the ability to save favorite cities, quickly access their weather information, and ensure the UI is responsive across different screen sizes using CSS media queries.
+
+I want to make this weather forcast app using openweather API and only using HTML, CSS and JS with a clean easy to understand code structure and clean documentation.
