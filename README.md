@@ -275,28 +275,13 @@ const GEO_URL = 'https://api.openweathermap.org/geo/1.0';
 ```
 weather-app/
 │
-├── index.html                          # Main HTML structure
-├── style.css                           # Complete styling (1,145 lines)
-├── app.js                              # Core JavaScript logic (791 lines)
-│
-├── README.md                           # This file
-├── CHANGELOG.md                        # Version history
-├── To-Do.txt                          # Development tasks
-│
-├── Documentation/
-│   ├── PROJECT_SUMMARY.md             # Project overview
-│   ├── PROJECT_COMPLETION.md          # Completion status
-│   ├── LAYOUT_REDESIGN.md             # Layout architecture
-│   ├── LAYOUT_OPTIMIZATION.md         # Performance notes
-│   ├── ANIMATIONS_GUIDE.md            # Animation reference (270+ lines)
-│   ├── ANIMATIONS_COMPLETION.md       # Animation summary
-│   ├── ANIMATION_VISUAL_REFERENCE.md  # Visual animation guide
-│   ├── VISUAL_GUIDE.md                # Visual design reference
-│   ├── FIXES_SUMMARY.md               # Bug fixes documentation
-│   └── QUICK_START.md                 # Quick start guide
-│
-└── Assets/
-    └── (icons, images if any)
+├── index.html        # Main HTML document
+├── style.css         # Styling and animations
+├── app.js            # Core JavaScript logic
+├── README.md         # Documentation
+├── To-Do.txt         # Notes/tasks
+├── .gitignore        # Git ignore rules
+└── .env              # Local API key (not committed; keep private)
 ```
 
 ---
